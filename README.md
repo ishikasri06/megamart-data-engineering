@@ -36,3 +36,17 @@ Business Analysis
 Power BI
        ↓
 Interactive Dashboards
+
+## 📊 Dashboard Preview
+
+### Retail Store Analysis
+
+![Retail Store Analysis](screenshots/retail_store_analysis.png)
+
+### Sales Analysis
+
+![Sales Analysis](screenshots/sales_analysis.png)
+
+### Inventory & Supply Chain
+
+![Inventory & Supply Chain](screenshots/inventory_supply_chain.png)
